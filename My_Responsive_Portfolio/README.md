@@ -1,6 +1,6 @@
 # Responsive Portfolio - Mahesh R
 
-![Portfolio Banner](./images/screenshot.png)
+![Portfolio Banner](./images/Prtflo.png)
 
 This project showcases my personal portfolio website, designed to highlight my skills, projects, and experience in a visually appealing and user-friendly manner.
 
