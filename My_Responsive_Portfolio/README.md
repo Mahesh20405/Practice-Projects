@@ -24,6 +24,8 @@ This portfolio serves as an online resume and a platform to connect with potenti
 - **Style Switcher**: Multiple color themes that users can switch between.
 - **Contact Form**: A functional contact form for efficient communication.
 
+  ![Feat Banner](./images/Feat.png)
+
 ## Technologies Used
 
 - HTML5
